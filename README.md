@@ -1,4 +1,4 @@
-# shop_ui
+# E-Commerce Complate App - Flutter UI
 
 A new Flutter project.
 
